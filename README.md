@@ -5,7 +5,6 @@
 It’s crucial for any business to classify the customers as of different segments by specific characteristics. By understanding the behavior and the consumption logics of each segment, a company can target the right consumer groups and make effective advertisement campaign.
 
 In this project, we will use machine learning techniques to analyze demographics data of customers of a mail-order company in Germany. The goal of this project is to create customers segments of population, and to build a model to predict weather a customer will respond to future campaign.
-![image](https://user-images.githubusercontent.com/54044580/155874281-1579f17f-8d5b-4df0-b81a-f149789ddd9c.png)
 
 
 ## Problem Statement
@@ -17,7 +16,6 @@ We will implement unsupervised machine learning models to perform classification
 By comparing the customer population to the general population, we could identify features that best describe the customers.
 •	What are the predictions of the targeted customers to the mail advertising campaign?
 A prediction model will then be created to identify individuals who are more likely to respond to the campaign.
-![image](https://user-images.githubusercontent.com/54044580/155874309-853e019c-5797-454e-a1e7-7243f868d3bb.png)
 
 
 ## Libraries
